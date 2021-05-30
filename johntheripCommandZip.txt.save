@@ -1,0 +1,2 @@
+* zip2john filename > save.txt
+* john save.txt --fork=4 -w=/user/share/wordlist/rockyou.txt

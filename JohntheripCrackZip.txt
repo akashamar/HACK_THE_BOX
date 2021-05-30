@@ -1,0 +1,2 @@
+* zip2john backup.zip > save.txt
+* john hash --fork=4 -w=/home/user/rockyou.txt

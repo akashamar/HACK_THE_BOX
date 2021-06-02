@@ -1,0 +1,1 @@
+bloodhound-python -d megacorp.local -u sandra -p"Password1234!"-gcpathfinder.megacorp.local -c all -ns10.10.10.30

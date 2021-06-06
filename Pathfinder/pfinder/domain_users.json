@@ -1,0 +1,520 @@
+[{
+    "attributes": {
+        "accountExpires": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPasswordTime": [
+            "2021-06-06 07:58:10.315519+00:00"
+        ],
+        "badPwdCount": [
+            1
+        ],
+        "cn": [
+            "sandra"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2020-01-30 23:15:08+00:00",
+            "1601-01-01 00:00:01+00:00"
+        ],
+        "distinguishedName": [
+            "CN=sandra,CN=Users,DC=MEGACORP,DC=LOCAL"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2021-06-06 07:17:41.362341+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2021-06-05 20:06:45.205866+00:00"
+        ],
+        "logonCount": [
+            1
+        ],
+        "logonHours": [
+            {
+                "encoded": "////////////////////////////",
+                "encoding": "base64"
+            }
+        ],
+        "memberOf": [
+            "CN=Remote Management Users,CN=Builtin,DC=MEGACORP,DC=LOCAL"
+        ],
+        "name": [
+            "sandra"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=MEGACORP,DC=LOCAL"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{0c68a16c-6c54-4f53-af24-bb4ff1b24381}"
+        ],
+        "objectSid": [
+            "S-1-5-21-1035856440-4137329016-3276773158-1105"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2020-03-21 00:17:40.846466+00:00"
+        ],
+        "sAMAccountName": [
+            "sandra"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "uSNChanged": [
+            90157
+        ],
+        "uSNCreated": [
+            12763
+        ],
+        "userAccountControl": [
+            512
+        ],
+        "whenChanged": [
+            "2021-06-05 20:06:45+00:00"
+        ],
+        "whenCreated": [
+            "2020-01-25 22:06:48+00:00"
+        ]
+    },
+    "dn": "CN=sandra,CN=Users,DC=MEGACORP,DC=LOCAL"
+},{
+    "attributes": {
+        "accountExpires": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPasswordTime": [
+            "2021-06-06 07:59:02.065268+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "svc_maint"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2020-01-30 23:15:08+00:00",
+            "1601-01-01 00:00:01+00:00"
+        ],
+        "distinguishedName": [
+            "CN=svc_maint,CN=Users,DC=MEGACORP,DC=LOCAL"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2021-06-06 09:51:44.799637+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2021-06-05 20:33:23.471502+00:00"
+        ],
+        "logonCount": [
+            12
+        ],
+        "logonHours": [
+            {
+                "encoded": "////////////////////////////",
+                "encoding": "base64"
+            }
+        ],
+        "memberOf": [
+            "CN=Remote Management Users,CN=Builtin,DC=MEGACORP,DC=LOCAL"
+        ],
+        "name": [
+            "svc_maint"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=MEGACORP,DC=LOCAL"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{7a8a5ca0-fddb-466f-b181-f77ef7603e6e}"
+        ],
+        "objectSid": [
+            "S-1-5-21-1035856440-4137329016-3276773158-1104"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2020-03-21 00:16:54.721478+00:00"
+        ],
+        "sAMAccountName": [
+            "svc_bes"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "servicePrincipalName": [
+            "MSSQLSvc/SQL02.MEGACORP.LOCAL:1443",
+            "MSSQLSvc/SQL02.MEGACORP.LOCAL:1433"
+        ],
+        "uSNChanged": [
+            90160
+        ],
+        "uSNCreated": [
+            12757
+        ],
+        "userAccountControl": [
+            4194816
+        ],
+        "whenChanged": [
+            "2021-06-05 20:33:23+00:00"
+        ],
+        "whenCreated": [
+            "2020-01-25 22:05:12+00:00"
+        ]
+    },
+    "dn": "CN=svc_maint,CN=Users,DC=MEGACORP,DC=LOCAL"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "krbtgt"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2020-01-30 23:15:08+00:00",
+            "2020-01-27 21:13:48+00:00",
+            "2020-01-25 21:53:34+00:00",
+            "1601-01-01 18:29:20+00:00"
+        ],
+        "description": [
+            "Key Distribution Center Service Account"
+        ],
+        "distinguishedName": [
+            "CN=krbtgt,CN=Users,DC=MEGACORP,DC=LOCAL"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "memberOf": [
+            "CN=Denied RODC Password Replication Group,CN=Users,DC=MEGACORP,DC=LOCAL"
+        ],
+        "msDS-SupportedEncryptionTypes": [
+            0
+        ],
+        "name": [
+            "krbtgt"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=MEGACORP,DC=LOCAL"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{81f3bd79-f7cf-4d28-a06e-776731235254}"
+        ],
+        "objectSid": [
+            "S-1-5-21-1035856440-4137329016-3276773158-502"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2020-01-25 21:53:34.376106+00:00"
+        ],
+        "sAMAccountName": [
+            "krbtgt"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "servicePrincipalName": [
+            "kadmin/changepw"
+        ],
+        "showInAdvancedViewOnly": [
+            true
+        ],
+        "uSNChanged": [
+            12785
+        ],
+        "uSNCreated": [
+            12324
+        ],
+        "userAccountControl": [
+            514
+        ],
+        "whenChanged": [
+            "2020-01-25 22:08:44+00:00"
+        ],
+        "whenCreated": [
+            "2020-01-25 21:53:34+00:00"
+        ]
+    },
+    "dn": "CN=krbtgt,CN=Users,DC=MEGACORP,DC=LOCAL"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Guest"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2020-01-30 23:15:08+00:00",
+            "2020-01-25 21:53:34+00:00",
+            "1601-01-01 00:04:17+00:00"
+        ],
+        "description": [
+            "Built-in account for guest access to the computer/domain"
+        ],
+        "distinguishedName": [
+            "CN=Guest,CN=Users,DC=MEGACORP,DC=LOCAL"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "memberOf": [
+            "CN=Guests,CN=Builtin,DC=MEGACORP,DC=LOCAL"
+        ],
+        "name": [
+            "Guest"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=MEGACORP,DC=LOCAL"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{3c1c7aa4-8c4b-44a8-858c-e770fba9549c}"
+        ],
+        "objectSid": [
+            "S-1-5-21-1035856440-4137329016-3276773158-501"
+        ],
+        "primaryGroupID": [
+            514
+        ],
+        "pwdLastSet": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "sAMAccountName": [
+            "Guest"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "uSNChanged": [
+            8197
+        ],
+        "uSNCreated": [
+            8197
+        ],
+        "userAccountControl": [
+            66082
+        ],
+        "whenChanged": [
+            "2020-01-25 21:52:09+00:00"
+        ],
+        "whenCreated": [
+            "2020-01-25 21:52:09+00:00"
+        ]
+    },
+    "dn": "CN=Guest,CN=Users,DC=MEGACORP,DC=LOCAL"
+},{
+    "attributes": {
+        "accountExpires": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "2021-06-06 00:11:14.846519+00:00"
+        ],
+        "badPwdCount": [
+            4
+        ],
+        "cn": [
+            "Administrator"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2020-03-21 01:09:40+00:00",
+            "2020-02-25 21:57:33+00:00",
+            "2020-01-30 23:15:08+00:00",
+            "2020-01-27 21:13:48+00:00",
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "description": [
+            "Built-in account for administering the computer/domain"
+        ],
+        "distinguishedName": [
+            "CN=Administrator,CN=Users,DC=MEGACORP,DC=LOCAL"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2020-03-21 01:09:30.654209+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2021-06-05 20:41:40.346519+00:00"
+        ],
+        "logonCount": [
+            43
+        ],
+        "logonHours": [
+            {
+                "encoded": "////////////////////////////",
+                "encoding": "base64"
+            }
+        ],
+        "memberOf": [
+            "CN=Group Policy Creator Owners,CN=Users,DC=MEGACORP,DC=LOCAL",
+            "CN=Domain Admins,CN=Users,DC=MEGACORP,DC=LOCAL",
+            "CN=Enterprise Admins,CN=Users,DC=MEGACORP,DC=LOCAL",
+            "CN=Schema Admins,CN=Users,DC=MEGACORP,DC=LOCAL",
+            "CN=Administrators,CN=Builtin,DC=MEGACORP,DC=LOCAL"
+        ],
+        "name": [
+            "Administrator"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=MEGACORP,DC=LOCAL"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{1db4fbe4-fb41-4040-b72d-f86752e64382}"
+        ],
+        "objectSid": [
+            "S-1-5-21-1035856440-4137329016-3276773158-500"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2020-03-17 18:52:07.517633+00:00"
+        ],
+        "sAMAccountName": [
+            "Administrator"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "uSNChanged": [
+            90161
+        ],
+        "uSNCreated": [
+            8196
+        ],
+        "userAccountControl": [
+            512
+        ],
+        "whenChanged": [
+            "2021-06-05 20:41:40+00:00"
+        ],
+        "whenCreated": [
+            "2020-01-25 21:52:09+00:00"
+        ]
+    },
+    "dn": "CN=Administrator,CN=Users,DC=MEGACORP,DC=LOCAL"
+}]

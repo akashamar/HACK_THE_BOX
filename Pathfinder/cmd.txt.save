@@ -1,0 +1,1 @@
+ldapdomaindump -u MEGACORP\\sandra -p Password1234! 10.10.10.30

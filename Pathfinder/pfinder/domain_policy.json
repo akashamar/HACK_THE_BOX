@@ -1,0 +1,176 @@
+[{
+    "attributes": {
+        "auditingPolicy": [
+            "\u0000\u0001"
+        ],
+        "creationTime": [
+            "2021-06-05 19:46:19.158976+00:00"
+        ],
+        "dSASignature": [
+            {
+                "encoded": "AQAAACgAAAAAAAAAAAAAAAAAAAAAAAAAdrkRbGOOjUedK/lUbk+ugg==",
+                "encoding": "base64"
+            }
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "dc": [
+            "MEGACORP"
+        ],
+        "distinguishedName": [
+            "DC=MEGACORP,DC=LOCAL"
+        ],
+        "fSMORoleOwner": [
+            "CN=NTDS Settings,CN=PATHFINDER,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=MEGACORP,DC=LOCAL"
+        ],
+        "forceLogoff": [
+            -9223372036854775808
+        ],
+        "gPLink": [
+            "[LDAP://CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=Policies,CN=System,DC=MEGACORP,DC=LOCAL;0]"
+        ],
+        "instanceType": [
+            5
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lockOutObservationWindow": [
+            "0:30:00"
+        ],
+        "lockoutDuration": [
+            "0:30:00"
+        ],
+        "lockoutThreshold": [
+            0
+        ],
+        "masteredBy": [
+            "CN=NTDS Settings,CN=PATHFINDER,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=MEGACORP,DC=LOCAL"
+        ],
+        "maxPwdAge": [
+            "999999999 days, 23:59:59.999999"
+        ],
+        "minPwdAge": [
+            "1 day, 0:00:00"
+        ],
+        "minPwdLength": [
+            7
+        ],
+        "modifiedCount": [
+            1
+        ],
+        "modifiedCountAtLastProm": [
+            0
+        ],
+        "ms-DS-MachineAccountQuota": [
+            10
+        ],
+        "msDS-AllUsersTrustQuota": [
+            1000
+        ],
+        "msDS-Behavior-Version": [
+            7
+        ],
+        "msDS-ExpirePasswordsOnSmartCardOnlyAccounts": [
+            true
+        ],
+        "msDS-IsDomainFor": [
+            "CN=NTDS Settings,CN=PATHFINDER,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=MEGACORP,DC=LOCAL"
+        ],
+        "msDS-NcType": [
+            0
+        ],
+        "msDS-PerUserTrustQuota": [
+            1
+        ],
+        "msDS-PerUserTrustTombstonesQuota": [
+            10
+        ],
+        "msDs-masteredBy": [
+            "CN=NTDS Settings,CN=PATHFINDER,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=MEGACORP,DC=LOCAL"
+        ],
+        "nTMixedDomain": [
+            0
+        ],
+        "name": [
+            "MEGACORP"
+        ],
+        "nextRid": [
+            1000
+        ],
+        "objectCategory": [
+            "CN=Domain-DNS,CN=Schema,CN=Configuration,DC=MEGACORP,DC=LOCAL"
+        ],
+        "objectClass": [
+            "top",
+            "domain",
+            "domainDNS"
+        ],
+        "objectGUID": [
+            "{230106a1-dd72-43b9-93a8-325ba00e010b}"
+        ],
+        "objectSid": [
+            "S-1-5-21-1035856440-4137329016-3276773158"
+        ],
+        "otherWellKnownObjects": [
+            "B:32:683A24E2E8164BD3AF86AC3C2CF3F981:CN=Keys,DC=MEGACORP,DC=LOCAL",
+            "B:32:1EB93889E40C45DF9F0C64D23BBB6237:CN=Managed Service Accounts,DC=MEGACORP,DC=LOCAL"
+        ],
+        "pwdHistoryLength": [
+            24
+        ],
+        "pwdProperties": [
+            1
+        ],
+        "rIDManagerReference": [
+            "CN=RID Manager$,CN=System,DC=MEGACORP,DC=LOCAL"
+        ],
+        "replUpToDateVector": [
+            {
+                "encoded": "AgAAAAAAAAAHAAAAAAAAAATSR0OjJnNAu1bHRek0ebAPEAEAAAAAAL4lZhQDAAAA4UgaW5zX1kq4Hgr1BZFhfxNQAQAAAAAAxfaFFAMAAAB2uRFsY46NR50r+VRuT66CDOAAAAAAAABEg0kUAwAAANezCoJmJ/BAvRvgSl0dN5ISQAEAAAAAACfthRQDAAAAcv7HtYolKUePNwiNAebiFQ3wAAAAAAAAcuZKFAMAAADwZJDIbDIPToXseFqQ/qM8DgABAAAAAACTRFYUAwAAAIh238jDYzpLpGGPCrIGb4oUYAEAAAAAAIllzBYDAAAA",
+                "encoding": "base64"
+            }
+        ],
+        "serverState": [
+            1
+        ],
+        "subRefs": [
+            "DC=ForestDnsZones,DC=MEGACORP,DC=LOCAL",
+            "DC=DomainDnsZones,DC=MEGACORP,DC=LOCAL",
+            "CN=Configuration,DC=MEGACORP,DC=LOCAL"
+        ],
+        "systemFlags": [
+            -1946157056
+        ],
+        "uASCompat": [
+            1
+        ],
+        "uSNChanged": [
+            90142
+        ],
+        "uSNCreated": [
+            4099
+        ],
+        "wellKnownObjects": [
+            "B:32:6227F0AF1FC2410D8E3BB10615BB5B0F:CN=NTDS Quotas,DC=MEGACORP,DC=LOCAL",
+            "B:32:F4BE92A4C777485E878E9421D53087DB:CN=Microsoft,CN=Program Data,DC=MEGACORP,DC=LOCAL",
+            "B:32:09460C08AE1E4A4EA0F64AEE7DAA1E5A:CN=Program Data,DC=MEGACORP,DC=LOCAL",
+            "B:32:22B70C67D56E4EFB91E9300FCA3DC1AA:CN=ForeignSecurityPrincipals,DC=MEGACORP,DC=LOCAL",
+            "B:32:18E2EA80684F11D2B9AA00C04F79F805:CN=Deleted Objects,DC=MEGACORP,DC=LOCAL",
+            "B:32:2FBAC1870ADE11D297C400C04FD8D5CD:CN=Infrastructure,DC=MEGACORP,DC=LOCAL",
+            "B:32:AB8153B7768811D1ADED00C04FD8D5CD:CN=LostAndFound,DC=MEGACORP,DC=LOCAL",
+            "B:32:AB1D30F3768811D1ADED00C04FD8D5CD:CN=System,DC=MEGACORP,DC=LOCAL",
+            "B:32:A361B2FFFFD211D1AA4B00C04FD7D83A:OU=Domain Controllers,DC=MEGACORP,DC=LOCAL",
+            "B:32:AA312825768811D1ADED00C04FD8D5CD:CN=Computers,DC=MEGACORP,DC=LOCAL",
+            "B:32:A9D1CA15768811D1ADED00C04FD8D5CD:CN=Users,DC=MEGACORP,DC=LOCAL"
+        ],
+        "whenChanged": [
+            "2021-06-05 19:46:19+00:00"
+        ],
+        "whenCreated": [
+            "2020-01-25 21:51:56+00:00"
+        ]
+    },
+    "dn": "DC=MEGACORP,DC=LOCAL"
+}]

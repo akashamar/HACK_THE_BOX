@@ -1,0 +1,150 @@
+[{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "PATHFINDER"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dNSHostName": [
+            "Pathfinder.MEGACORP.LOCAL"
+        ],
+        "dSCorePropagationData": [
+            "2020-01-30 23:15:08+00:00",
+            "2020-01-25 21:53:34+00:00",
+            "1601-01-01 00:04:17+00:00"
+        ],
+        "displayName": [
+            "PATHFINDER$"
+        ],
+        "distinguishedName": [
+            "CN=PATHFINDER,OU=Domain Controllers,DC=MEGACORP,DC=LOCAL"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2021-06-06 11:46:30.565224+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2021-06-05 19:46:59.190228+00:00"
+        ],
+        "localPolicyFlags": [
+            0
+        ],
+        "logonCount": [
+            66
+        ],
+        "msDFSR-ComputerReferenceBL": [
+            "CN=WIN-FCR9U9L70SA,CN=Topology,CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=MEGACORP,DC=LOCAL"
+        ],
+        "msDS-GenerationId": [
+            {
+                "encoded": "KdmwEZr59Os=",
+                "encoding": "base64"
+            }
+        ],
+        "msDS-SupportedEncryptionTypes": [
+            28
+        ],
+        "name": [
+            "PATHFINDER"
+        ],
+        "objectCategory": [
+            "CN=Computer,CN=Schema,CN=Configuration,DC=MEGACORP,DC=LOCAL"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectGUID": [
+            "{c88f9803-967d-4cf3-b56a-5d35b1c60d2b}"
+        ],
+        "objectSid": [
+            "S-1-5-21-1035856440-4137329016-3276773158-1000"
+        ],
+        "operatingSystem": [
+            "Windows Server 2019 Datacenter"
+        ],
+        "operatingSystemVersion": [
+            "10.0 (17763)"
+        ],
+        "primaryGroupID": [
+            516
+        ],
+        "pwdLastSet": [
+            "2021-06-05 19:46:47.737108+00:00"
+        ],
+        "rIDSetReferences": [
+            "CN=RID Set,CN=PATHFINDER,OU=Domain Controllers,DC=MEGACORP,DC=LOCAL"
+        ],
+        "sAMAccountName": [
+            "PATHFINDER$"
+        ],
+        "sAMAccountType": [
+            805306369
+        ],
+        "serverReferenceBL": [
+            "CN=PATHFINDER,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=MEGACORP,DC=LOCAL"
+        ],
+        "servicePrincipalName": [
+            "Dfsr-12F9A27C-BF97-4787-9364-D31B6C55EB04/Pathfinder.MEGACORP.LOCAL",
+            "ldap/Pathfinder.MEGACORP.LOCAL/ForestDnsZones.MEGACORP.LOCAL",
+            "ldap/Pathfinder.MEGACORP.LOCAL/DomainDnsZones.MEGACORP.LOCAL",
+            "DNS/Pathfinder.MEGACORP.LOCAL",
+            "GC/Pathfinder.MEGACORP.LOCAL/MEGACORP.LOCAL",
+            "HOST/Pathfinder.MEGACORP.LOCAL/MEGACORP",
+            "HOST/Pathfinder.MEGACORP.LOCAL/MEGACORP.LOCAL",
+            "ldap/Pathfinder.MEGACORP.LOCAL/MEGACORP",
+            "ldap/Pathfinder.MEGACORP.LOCAL",
+            "ldap/Pathfinder.MEGACORP.LOCAL/MEGACORP.LOCAL",
+            "RestrictedKrbHost/Pathfinder.MEGACORP.LOCAL",
+            "HOST/Pathfinder.MEGACORP.LOCAL",
+            "RestrictedKrbHost/PATHFINDER",
+            "HOST/PATHFINDER/MEGACORP",
+            "HOST/PATHFINDER",
+            "ldap/PATHFINDER/MEGACORP",
+            "ldap/PATHFINDER",
+            "RPC/6c11b976-8e63-478d-9d2b-f9546e4fae82._msdcs.MEGACORP.LOCAL",
+            "E3514235-4B06-11D1-AB04-00C04FC2DCD2/6c11b976-8e63-478d-9d2b-f9546e4fae82/MEGACORP.LOCAL",
+            "ldap/6c11b976-8e63-478d-9d2b-f9546e4fae82._msdcs.MEGACORP.LOCAL"
+        ],
+        "uSNChanged": [
+            90149
+        ],
+        "uSNCreated": [
+            12293
+        ],
+        "userAccountControl": [
+            532480
+        ],
+        "whenChanged": [
+            "2021-06-05 19:46:59+00:00"
+        ],
+        "whenCreated": [
+            "2020-01-25 21:53:34+00:00"
+        ]
+    },
+    "dn": "CN=PATHFINDER,OU=Domain Controllers,DC=MEGACORP,DC=LOCAL"
+}]

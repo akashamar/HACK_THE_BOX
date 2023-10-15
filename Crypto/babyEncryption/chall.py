@@ -16,6 +16,7 @@
 def decryption(msg):
 	pt = []
 	for char in msg:
+		print(char)
 		char = char - 18
 		char = 179 * char % 256
 		pt.append(char)
@@ -23,6 +24,7 @@ def decryption(msg):
 
 with open('msg.enc') as f:
 	ct = bytes.fromhex(f.read())
+	print(ct)
 
 pt = decryption(ct)
 print(pt)

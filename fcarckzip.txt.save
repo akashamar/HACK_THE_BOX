@@ -1,1 +1,0 @@
-sudo fcrackzip -u -D -p /usr/share/wordlists/rockyou.txt backup.zip
